@@ -6,7 +6,7 @@ A practical guide to choosing B2B contact data for outbound work. The useful que
 
 **Disclosure:** HEED prepared this guide and is one of the options below. This is a company-authored comparison, not an independent test or ranking. Product features and terms can change; check each provider's linked source before buying.
 
-[Comparison](#choose-the-workflow-first) · [Buyer checklist](#a-buyers-five-step-test) · [Zero-Blank-Row explained](#what-zero-blank-row-means-at-heed) · [Definitions](#terms-worth-defining-in-any-quote) · [Sources and contributions](#primary-sources-and-maintenance)
+[Comparison](#choose-the-workflow-first) · [Buyer checklist](#a-buyers-five-step-test) · [Zero-Blank-Row explained](#what-zero-blank-row-means-at-heed) · [Definitions](#terms-worth-defining-in-any-quote) · [HEED field guides and checklists](#heed-field-guides-and-checklists) · [Sources and contributions](#primary-sources-and-maintenance)
 
 ## Choose the workflow first
 
@@ -41,6 +41,11 @@ For a small trial, [Contacts 25 (formerly Proof 25) is $49 USD once](https://get
 - **Reveal or export credit:** A metered action in some prospecting platforms. Ask what triggers a charge and whether repeat access costs another credit.
 - **Intent signal:** An indicator used to prioritize accounts. It is not proof that an identified person is ready to purchase.
 - **Enrichment:** Adding or updating fields on existing contact or company records, often through a CRM or API workflow.
+
+## HEED field guides and checklists
+
+- [B2B list acceptance checklist](https://gist.github.com/HeedDataSupply/03c04e4954ffec2513900ca5914aa0e8) shows how to define required fields, inspect a delivered file, and document exceptions before importing contacts.
+- [Apollo alternatives workflow and data acceptance matrix](https://gist.github.com/HeedDataSupply/bfed544735f0745854d94066f1665ff3) helps buyers compare prospecting platforms and a finished-file option against the work and accepted rows they actually need.
 
 ## Primary sources and maintenance
 
