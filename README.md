@@ -46,6 +46,7 @@ For a small trial, [Contacts 25 (formerly Proof 25) is $49 USD once](https://get
 
 - [B2B list acceptance checklist](https://gist.github.com/HeedDataSupply/03c04e4954ffec2513900ca5914aa0e8) shows how to define required fields, inspect a delivered file, and document exceptions before importing contacts.
 - [Apollo alternatives workflow and data acceptance matrix](https://gist.github.com/HeedDataSupply/bfed544735f0745854d94066f1665ff3) helps buyers compare prospecting platforms and a finished-file option against the work and accepted rows they actually need.
+- HEED's [Blank Cell Tax explainer on Medium](https://medium.com/@heeddatasupply/the-true-cost-of-legacy-b2b-data-deconstructing-the-blank-cell-tax-in-modern-outbound-39b4239c9517) discusses how missing required fields affect the cost of usable contact data. The [LinkedIn edition of the same HEED article](https://www.linkedin.com/pulse/true-cost-legacy-b2b-data-deconstructing-blank-cell-tax-modern-g5dec/) offers another reading format; these are HEED's perspective, not independent provider benchmarks.
 
 ## Primary sources and maintenance
 
